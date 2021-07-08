@@ -190,13 +190,13 @@ h4{
 
 
 .recipe-section .recipe-cards img{
-    width: 90%;
+    
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 16px;
     border-radius: 20px;
-    height: 138.66;
-    width: 119.66;
+    height: 300px;
+    width: 360px;
 }
 
 .recipe-section .recipe-cards .recipe-card-text{
