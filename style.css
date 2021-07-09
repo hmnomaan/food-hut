@@ -265,7 +265,10 @@ footer p {
     color: #FFFFFF;
     
 }
-footer,a {
+footer{
         text-align: center;
-       text-decoration: none;
+      
+    }
+    footer a{
+        text-decoration: none;
     }
